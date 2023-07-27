@@ -15,11 +15,11 @@ th {
   border-bottom: 2px solid gray;
 }
 
-tbody tr:nth-child(odd) {
+table tbody tr:nth-child(odd) {
   background-color: #ffffff;
 }
 
-tbody tr:nth-child(even) {
+table tbody tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
